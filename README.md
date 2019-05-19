@@ -2,7 +2,7 @@
 
 #### Recommendation System (RS)
 [Recommendation System](https://en.wikipedia.org/wiki/Recommender_system) is utilized in many fields such as ecommerce and gaming. It is of great interest to the industry world. Boosted by [Netflix prize](https://en.wikipedia.org/wiki/Netflix_Prize), many RS algorithms have been developed, such as SVD models. [Collaborative filtering](https://en.wikipedia.org/wiki/Collaborative_filtering) (CF) is a model is a method of making automatic predictions (filtering) about the interests of a user by collecting preferences or taste information from many users (collaborating).  CF has some real-world application such as Discover Weekly by Spotify. This project is an attempt to apply spark Collaborative filtering method ALS on a large dataset.  
-![img](RS_CF.jpg)
+![img](RS_CF.jpeg)
 (image from https://medium.com/@cfpinela/recommender-systems-user-based-and-item-based-collaborative-filtering-5d5f375a127f)
 
 #### Methods
