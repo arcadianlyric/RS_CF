@@ -14,5 +14,5 @@
 
 #### TODO:
 feature engineering:  
-1. normalize log(time played) with something like sklearn.preprocessing.StandardScaler ?  
+1. normalize log(time played) across users  
 2. using other information (devie etc.) to unsupervized cluster user  
